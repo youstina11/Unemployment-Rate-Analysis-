@@ -2,8 +2,7 @@
 An exploratory data analysis of unemployment trends in India using Python, focusing on regional patterns, urban vs. rural differences, seasonal variations, employment trends, and the impact of COVID-19.
 
 unemployment-analysis-dashboard.png
-![Unemployment Rate Analysis](./unemployment-analysis-dashboard.png)
-
+![Unemployment Rate Analysis](./6F5DC963-C02A-47DC-812C-44023379A18A.png)
 
 
 

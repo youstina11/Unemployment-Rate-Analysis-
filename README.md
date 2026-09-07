@@ -1,5 +1,11 @@
 # Unemployment-Rate-Analysis-
 An exploratory data analysis of unemployment trends in India using Python, focusing on regional patterns, urban vs. rural differences, seasonal variations, employment trends, and the impact of COVID-19.
+a_clean_modern_infographic_dashboard_image_on_a.png
+![India Unemployment Dashboard](./a_clean_modern_infographic_dashboard_image_on_a.png)
+
+![India Unemployment Dashboard](https://raw.githubusercontent.com/youstina11/Iris-Flower-Classification-/refs/heads/main/a_clean_modern_infographic_dashboard_image_on_a.png)
+
+
 # 📊 Unemployment Rate Analysis
 
 An exploratory **Data Analysis project** focused on understanding unemployment trends in India using Python and real-world unemployment data.
